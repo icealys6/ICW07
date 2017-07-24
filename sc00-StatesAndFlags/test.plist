@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<array>
+		<string>Colorado</string>
+		<string>Nothing without providence</string>
+		<string>Colorado.png</string>
+		<string>1876</string>
+		<string>5,456,574</string>
+		<string>Denver</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>California</string>
+		<string>I have found it</string>
+		<string>California.png</string>
+		<string>1850</string>
+		<string>39,144,818</string>
+		<string>Sacramento</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>Arkansas</string>
+		<string>The people rule</string>
+		<string>Arkansas.png</string>
+		<string>1836</string>
+		<string>2,978,204</string>
+		<string>Little Rock</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>Arizona</string>
+		<string>God enriches</string>
+		<string>Arizona.png</string>
+		<string>1912</string>
+		<string>6,828,065</string>
+		<string>Phoenix</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>Alaska</string>
+		<string>North to the future</string>
+		<string>Alaska.png</string>
+		<string>1959</string>
+		<string>738,432</string>
+		<string>Juneau</string>
+	</array>
+	<key>6</key>
+	<array>
+		<string>Alabama</string>
+		<string>We dare to defend our rights</string>
+		<string>Alabama.png</string>
+		<string>1819</string>
+		<string>4,858,990</string>
+		<string>Montgomery</string>
+	</array>
+</dict>
+</plist>
